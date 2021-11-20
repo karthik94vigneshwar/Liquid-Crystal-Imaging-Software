@@ -8,6 +8,5 @@ The front end of the software (UI) is generated using PyQT5 designer tool and in
 
 <img width="1279" alt="Screen Shot 2021-10-05 at 11 45 47 AM" src="https://user-images.githubusercontent.com/58865470/142721811-c7319858-dda7-4b4e-b7af-6701ef35f6b9.png">
 
-
-
+![Final Contour Image red](https://user-images.githubusercontent.com/58865470/142721869-60d03191-e151-4a75-8998-108f06c4d2e9.png)
 
